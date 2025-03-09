@@ -9,4 +9,5 @@ fi
 
 pwd
 
-sudo docker compose -f compose.yaml up
+sudo docker compose up -d
+
