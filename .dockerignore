@@ -1,9 +1,6 @@
-haproxy
-main.py
 not_tested_main.py
-README.md
 schema.pdf
 LICENSE
-nginx
 proxy.yaml
+README.md
 
