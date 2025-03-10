@@ -1,4 +1,13 @@
-schema.pdf
-LICENSE
-README.md
+.gitignore
+.dockerignore
 
+README.md
+LICENSE
+schema.pdf
+
+compose.yaml
+.env
+Dockerfile.python
+
+proxy.yaml
+not_tested_main.py
