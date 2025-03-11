@@ -9,5 +9,3 @@ fi
 
 pwd
 
-sudo docker compose up -d
-
